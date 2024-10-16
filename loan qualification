@@ -1,4 +1,4 @@
-// calculation for loan qualification 
+// calculation for loan qualification.c
 #include <stdio.h>
 
 int main() {
