@@ -1,4 +1,4 @@
-//simple interest formula 
+//simple interest formula.c
 #include <stdio.h>
 
 int main() { 
