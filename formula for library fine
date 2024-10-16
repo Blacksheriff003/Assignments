@@ -1,4 +1,4 @@
-// calculation to find library fine
+// calculation to find library fine.c
 #include <stdio.h>
 
 int main() {
