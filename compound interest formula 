@@ -1,4 +1,4 @@
-// compound interest formula 
+// compound interest formula.c
 #include <stdio.h>
 #include <math.h>
 
